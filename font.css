@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Amiri;
+    font-style: normal;
+    font-weight: 400;
+    src: url('font/amiri-regular.eot?') format('eot'),
+         url('font/amiri-regular.woff') format('woff'),
+         url('font/amiri-regular.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: Amiri Quran;
+    font-style: normal;
+    font-weight: 400;
+    src: url('font/amiri-quran.eot?') format('eot'),
+         url('font/amiri-quran.woff') format('woff'),
+         url('font/amiri-quran.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: Amiri;
+    font-style: normal;
+    font-weight: 700;
+    src: url('font/amiri-bold.eot?') format('eot'),
+         url('font/amiri-bold.woff') format('woff'),
+         url('font/amiri-bold.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: Amiri;
+    font-style: oblique;
+    font-weight: 400;
+    src: url('font/amiri-slanted.eot?') format('eot'),
+         url('font/amiri-slanted.woff') format('woff'),
+         url('font/amiri-slanted.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: Amiri;
+    font-style: oblique;
+    font-weight: 700;
+    src: url('font/amiri-boldslanted.eot?') format('eot'),
+         url('font/amiri-boldslanted.woff') format('woff'),
+         url('font/amiri-boldslanted.ttf')  format('truetype');
+}
